@@ -1,0 +1,8 @@
+.cloud-band {
+    position: relative;
+   
+    border-top: 3px solid gray; /* Top border */
+    background-color: black; /* Black background */
+    overflow: hidden; /* Ensure no overflow of SVG */
+  }
+  
